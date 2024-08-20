@@ -6,7 +6,7 @@ div{
     padding: 10px;
 }
 h3{
-    display: inline;
+    display: flex;
 }
 h4{
     display: inline;
