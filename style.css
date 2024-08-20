@@ -6,8 +6,10 @@ div{
     padding: 10px;
 }
 h3{
+    a{
     display: flex;
     padding-right: 250px;
+    }
 }
 h4{
     display: inline;
