@@ -7,12 +7,12 @@ div{
 }
 h3{
     display: flex;
-    padding-right: 100px;
+    padding-right: 200px;
 
 }
 h4{
     display: inline;
-    padding: 60px;
+    padding: 40px;
 }
 .four{
     background-color: burlywood;
